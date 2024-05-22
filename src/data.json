@@ -1,0 +1,7 @@
+{
+    "todos": [
+        {"title": "play guitar", "id": "o3iu4n", "desc": "practice guitar and learn important notes"}, 
+        {"title": "study math", "id": "doifus", "desc": "tomorrow is the calculus test"}, 
+        {"title": "grocery shopping", "id": "2-093n", "desc": "buy groceries on evening"}
+    ]
+}
